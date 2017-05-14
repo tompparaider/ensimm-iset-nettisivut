@@ -1,0 +1,129 @@
+footer { 
+	width: 100%;
+	height: 10px;
+	color: black;
+}
+
+pre {
+	background-color: #E6B800;
+	color: black;
+	border-color: black;
+	width: 100%;
+	text-align: center;
+	float: bottom;
+}
+
+img {
+    max-width: 100%;
+    height: 100%;
+	border-radius: 5px;
+}
+
+body {
+    background-color: #181f29;
+}
+
+table {
+	background-color: white;
+	width: 100%;
+	height: 100%;
+	color: black;
+}
+
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+	text-align: center;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+   text-align: center;
+}
+table#t01 th	{
+    background-color: #E6B800;
+    color: black;
+	text-align: center;
+}
+
+table#t02 tr:nth-child(even) {
+    background-color: #eee;
+	text-align: center;
+}
+table#t02 tr:nth-child(odd) {
+   background-color:#fff;
+   text-align: center;
+}
+table#t02 th	{
+    background-color: #b70034;
+    color: white;
+	text-align: center;
+}
+
+table#t03 tr:nth-child(even) {
+    background-color: #eee;
+	text-align: center;
+}
+table#t03 tr:nth-child(odd) {
+   background-color:#fff;
+   text-align: center;
+}
+table#t03 th	{
+    background-color: #036f00;
+    color: white;
+	text-align: center;
+}
+
+.jumbotron h1	{
+	color: white;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 6.5vw;
+}
+
+.vertical-center {
+  height:100%;
+  width:100%;
+
+  text-align: center;
+}
+
+.thumbnail	{
+	background-color: #E6B800;
+	border-color: black;
+}
+
+.thumbnail p {
+    font-weight: 900;
+}
+
+.navbar {
+	background-color: #E6B800;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: black;
+}
+
+a {
+	color:black;
+}
+
+div {
+	color: white;
+}
+
+button {
+	height: 50px;
+	background-color: #E6B800;
+	color: black;
+}
